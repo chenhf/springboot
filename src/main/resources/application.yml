@@ -1,0 +1,10 @@
+person:
+  name: chenhf
+  age:  31
+
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://rdsc9v886zs50385wkazpublic.mysql.rds.aliyuncs.com:3306/jimuwang_test?characterEncoding=UTF-8
+    username: jimuuser
+    password: r6Y6w3I5EdtI
